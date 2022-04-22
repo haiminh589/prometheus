@@ -11,3 +11,4 @@ __Prometheus's main features are__:
 - multiple modes of graphing and dashboarding support
 
 ![image](https://user-images.githubusercontent.com/75883087/164673751-4476ad58-0289-4d46-9c8e-9bf2f3712ed8.png)
+![image](https://user-images.githubusercontent.com/75883087/164694018-e3640992-aa6a-4e5b-8d0d-89bc7ad38a0e.png)
