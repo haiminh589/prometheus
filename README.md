@@ -1,7 +1,7 @@
 # Prometheus
 ## Monitoring with Prometheus and Grafana 
 1. Prometheus Architecture  
-__Prometheus's main features are:  
+__Prometheus's main features are__:  
 - a multi-dimensional data model with time series data identified by metric name and key/value pairs
 - PromQL, a flexible query language to leverage this dimensionality
 - no reliance on distributed storage; single server nodes are autonomous
