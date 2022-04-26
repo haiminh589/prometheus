@@ -52,4 +52,10 @@ kubectl edit svc stable-grafana
 
 # Change from ClusterIP to LoadBalancer/NodePort
 
-# Now
+# Now get service again and see the change
+kubectl get svc
+
+#Access Prometheus and Grafana WEB Interface
+--------------------------------
+
+#Using the IP and port in svc file above or using the Service external IP
