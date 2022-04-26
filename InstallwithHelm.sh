@@ -59,3 +59,5 @@ kubectl get svc
 --------------------------------
 
 #Using the IP and port in svc file above or using the Service external IP
+#Default credentials for Grafana
+#admin / prom-operator
